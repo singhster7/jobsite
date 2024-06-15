@@ -226,7 +226,7 @@ function Job(props) {
             style={{
               margin: "auto",
               backgroundColor: colors(),
-              borderRadius: "3px",
+              borderRadius: "4px",
             }}
           >
             {buttonValue}
