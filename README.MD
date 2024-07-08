@@ -1,5 +1,5 @@
 # JOBSite
-##Job Portal for finding and listing job opportunity
+## Job Portal for finding and listing job opportunity
 
 # Setup and Running 
 
