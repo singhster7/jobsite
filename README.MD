@@ -1,5 +1,5 @@
 # JOBSite
-Job Portal for finding and listing job opportunity
+## Job Portal for finding and listing job opportunity
 
 # Setup and Running 
 
@@ -44,7 +44,7 @@ Your App should be up and running on http://localhost:3000/
 
 ## Recruiter
 * List out jobs
-* Select applicants
+* Select applicant(s)
 * Rate employees
 * Delete/Edit Jobs
-* Auto send acceptance mail
+* Auto send acceptance mails
